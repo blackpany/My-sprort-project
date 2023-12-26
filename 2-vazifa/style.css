@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#row{
+    border: 2px solid orange;
+}
+
+.navbar-nav{
+    margin-left: 400px;
+}
+
+#logo{
+    margin-left: 100px;
+}
+
+#border-bottom{
+    border-bottom: 1 solid orange;
+}
+
+#metoria{
+    margin-left: 50px ;
+}
+
+#rov{
+    margin-left: 80px;
+}
+
+#kvadrat{
+    border: 1px solid orange;
+}
+
+#koproq{
+    border: 1px solid orange;
+    margin-left: 30px;
+}
+
+#uy {
+  margin-left: 30px;
+}
+
+#agena{
+    margin-top: 30px;
+}
+
+#qurulish{
+    border-bottom: 2px solid orange;
+}
+
+#pul{
+    color: orange;
+}
+
+#izoh{
+    border: 1px solid orange;
+}
+
+#ukam{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#tugma{
+    margin-left: 270px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#child{
+    background-image: url(images/11\ 1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+    height: 40vh;
+}
+ #child p{
+    position: absolute;
+    bottom: -16px;
+    right: 0;
+    border: 1px solid black;
+    border-top-left-radius: 50px;
+    padding: 10px;
+    
+ }
+

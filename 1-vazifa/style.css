@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+
+
+.navbar-nav{
+    margin-left: 500px;
+}
+
+#text-1{
+    margin-top: 161px;
+}
+
+#text-2{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+}
+
+#text-3{
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+}
+
+#photo{
+    margin-top: 160px;
+    margin-left: 180px;
+}
+
+#image-1{
+    margin-left: 110px;
+    margin-bottom: 10px;
+} 
+
+.asosiy{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.father{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.bolasi{
+    width: calc(25% - 20px);
+    margin: 10px;
+    background-color: #181818;
+}
+
+.bolasi img{
+   margin-left: 60px;
+   margin-top: 10px
+}
+
+#rasm-2{
+    margin-left: 80px;
+}
+
+#rasm-3{
+    margin-left: 75px;
+}
+
+#rasm-4{
+    margin-left: 70px;
+}
+
+#text{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+#iphone-13{
+    margin-left: 100px;
+}
+
+
